@@ -28,7 +28,7 @@
 - 🎓 Final-year **B.Tech CSE (AI/ML)** at **Shoolini University**, CGPA **8.9**, graduating 2026.
 - 🧠 I work on **RAG, LLMs, and verifiable ML**: systems that cite their sources, check their own claims, and refuse when they are not sure.
 - 🔐 Security-first by habit: privacy-preserving, fully-local AI and hardened, production-minded builds.
-- 🏆 **Anthropic Claude Certified Architect** (Foundations).
+- 🏆 **Anthropic Claude Certified Architect** (Foundations, scored 915/1000), with a full Claude developer track: API, Claude Code, MCP, and agent skills.
 - 🌐 Building open work under [@dmjone](https://github.com/dmjone) at [dmj.one](https://dmj.one).
 
 ## 🚀 Featured Projects
@@ -89,8 +89,13 @@ A production-grade facial recognition surveillance platform.
 ## 🎓 Education & Certifications
 
 - **B.Tech, Computer Science (AI/ML)** · Shoolini University, Himachal Pradesh · 2022-2026 · CGPA 8.9
-- **Anthropic Claude Certified Architect, Foundations** · 2026 · Credential `kq4w23dmcnmg`
-  - Model Context Protocol (MCP), Claude Code subagents, and Claude skills.
+
+**Anthropic credentials**
+- **Claude Certified Architect, Foundations** · May 2026 · scored **915 / 1000** · valid through Nov 2026 · Credential `kq4w23dmcnmg`
+- **Building with the Claude API** · Apr 2026
+- **Claude Code in Action** · Apr 2026
+- **Introduction to Model Context Protocol** · Apr 2026
+- **Introduction to Agent Skills** · Apr 2026
 
 ## 📊 GitHub Activity
 
