@@ -87,3 +87,23 @@ A production-grade facial recognition surveillance platform.
 ![Model Context Protocol](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=anthropic&logoColor=white)
 
 ## 🎓 Education & Certifications
+
+- **B.Tech, Computer Science (AI/ML)** · Shoolini University, Himachal Pradesh · 2022-2026 · CGPA 8.9
+- **Anthropic Claude Certified Architect, Foundations** · 2026 · Credential `kq4w23dmcnmg`
+  - Model Context Protocol (MCP), Claude Code subagents, and Claude skills.
+
+## 📊 GitHub Activity
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kaustuvsharma&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Kaustuv Sharma's GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaustuvsharma&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+</div>
+
+## 🤝 Let's connect
+
+- 🌐 Portfolio: **[dmj.one](https://dmj.one)**
+- 💼 LinkedIn: **[linkedin.com/in/kaustuvsharma](https://www.linkedin.com/in/kaustuvsharma)**
+
+<div align="center">
+<sub>Open to AI/ML engineering and applied research roles. Reach out anytime.</sub>
+</div>
